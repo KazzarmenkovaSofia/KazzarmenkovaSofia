@@ -1,9 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://image.pollinations.ai/prompt/computer%20matreshka%208%20bit%20style,%20colorful,%20pixelated%20design,%20vibrant,%208-bit%20art,%20retro%20gaming,%2)" width="100"/>
+  <img src="https://image.pollinations.ai/prompt/computer%20matreshka%208%20bit%20style,%20colorful,%20pixelated%20design,%20vibrant,%208-bit%20art,%20retro%20gaming,%20digital%20art,%20pixel%20art,%20nologo=true" width="100"/>
 </div>
 
 ## Hi there 👋
