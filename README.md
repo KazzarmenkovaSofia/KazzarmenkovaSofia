@@ -2,7 +2,8 @@
 
 I am a BPM (Business Process Management) Analyst 🤓 with 8 years of experience in the Fintech industry.
 
-## More about my experiance:
+💼**More about my experiance:**💼
+
 I worked at the biggest online bank in Russia ([TBank](https://www.tbank.ru/))
 
 <!--
