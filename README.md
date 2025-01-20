@@ -1,6 +1,9 @@
-##Hi there! I´m Sofia 👋
+## Hi there! I´m Sofia 👋
 
-I am test
+I am a BPM (Business Process Management) Analyst 🤓 with 8 years of experience in the Fintech industry.
+
+## More about my experiance:
+I worked at the biggest online bank in Russia ([TBank](https://www.tbank.ru/))
 
 <!--
 **KazzarmenkovaSofia/KazzarmenkovaSofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
