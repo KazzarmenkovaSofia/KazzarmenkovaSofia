@@ -19,9 +19,9 @@ Scope of my duties related to next spheres:
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TinkoffPy](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Aiogram](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Pandas&logoColor=black)
+![TinkoffPy](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=TinkoffPy&logoColor=black)
+![Aiogram](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Aiogram&logoColor=black)
 
 
 | Job Position  | Company       | Department \ Division  | Work Period   |
