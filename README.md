@@ -11,6 +11,10 @@ Scope of my duties related to next spheres:
 - ✈ Travel
 - 🛎 Hotel services
 
+💼 Technical Skills
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+
 | Job Position  | Company       | Department \ Division  | Work Period   |
 | ------------- | ------------- | ---------------------- | ------------- |
 | Customer Service Specialist  | TBank  | Department of Incoming Requests | 08.2016 - 03.2017 |
