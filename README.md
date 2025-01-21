@@ -22,10 +22,10 @@ Scope of my duties related to next spheres:
 | TeamLead Premium Back Office: Promotions and Loyalty Programs  | TBank  | Department of Claims Appeals | 07.2021 - 12.2021 |
 | TeamLead Premium Back Office: Travel  | TBank  | Department of Claims Appeals | 12.2021 - 06.2022 |
 | Methodologist: Travel  | TBank  | Departmentof Process Automation | 06.2022 - 11.2023 |
-| Process Analyst  | TBank  | Process Development Department | 11.2023 - 02.2024 |
-| Leading Process Analyst  | TBank  | Process Development Department | 02.2024 - 07.2024 |
-| Middle BPM Analyst  | TBank  | Process Development Department | 07.2024 - 11.2025 |
-| Middle+ BPM Analyst  | TBank  | Process Development Department | 11.2024 - 02.2025 |
+| Process Analyst: Hotels  | TBank  | Process Development Department | 11.2023 - 02.2024 |
+| Leading Process Analyst: Hotels  | TBank  | Process Development Department | 02.2024 - 07.2024 |
+| Middle BPM Analyst: Hotels  | TBank  | Process Development Department | 07.2024 - 11.2025 |
+| Middle+ BPM Analyst: Hotels  | TBank  | Process Development Department | 11.2024 - 02.2025 |
 <!--
 **KazzarmenkovaSofia/KazzarmenkovaSofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
