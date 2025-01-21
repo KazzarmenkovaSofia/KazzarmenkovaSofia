@@ -11,6 +11,10 @@ Scope of my duties related to next spheres:
 - ✈ Travel
 - 🛎 Hotel services
 
+| Job Position  | Company       | Department \ Division  | Work Period   |
+| ------------- | ------------- | ---------------------- | ------------- |
+| Customer Service Specialist  | TBank  | Department of Incoming Requests | 08.2016 - 03.2017 |
+| Leading Customer Service Expert  | TBank  | Department of Incoming Requests | 03.2017 - 02.2018 |
 <!--
 **KazzarmenkovaSofia/KazzarmenkovaSofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
