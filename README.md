@@ -11,9 +11,13 @@ Scope of my duties related to next spheres:
 - ✈ Travel
 - 🛎 Hotel services
 
-💼 Technical Skills
+## 💼 Technical Skills
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 | Job Position  | Company       | Department \ Division  | Work Period   |
 | ------------- | ------------- | ---------------------- | ------------- |
