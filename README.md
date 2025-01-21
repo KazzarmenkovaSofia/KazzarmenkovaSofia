@@ -15,6 +15,13 @@ Scope of my duties related to next spheres:
 | ------------- | ------------- | ---------------------- | ------------- |
 | Customer Service Specialist  | TBank  | Department of Incoming Requests | 08.2016 - 03.2017 |
 | Leading Customer Service Expert  | TBank  | Department of Incoming Requests | 03.2017 - 02.2018 |
+| Chief Customer Service Specialist  | TBank  | Department of Incoming Requests | 02.2018 - 04.2019 |
+| Back Office Specialist: Promotions and Loyalty Programs  | TBank  | Department of Claims Appeals | 03.2019 - 12.2019 |
+| Leading Back Office Specialist: Travel  | TBank  | Department of Claims Appeals | 12.2019 - 12.2020 |
+| Chief Back Office Specialist: Travel  | TBank  | Department of Claims Appeals | 12.2020 - 07.2021 |
+| TeamLead Premium Back Office: Promotions and Loyalty Programs  | TBank  | Department of Claims Appeals | 07.2021 - 12.2021 |
+| TeamLead Premium Back Office: Travel  | TBank  | Department of Claims Appeals | 12.2021 - 06.2022 |
+| Methodologist: Travel  | TBank  | Department of Claims Appeals | 12.2021 - 12.2022 |
 <!--
 **KazzarmenkovaSofia/KazzarmenkovaSofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
