@@ -42,7 +42,8 @@ Scope of my duties related to next spheres:
 ![Confluence](https://img.shields.io/badge/Confluence-3F3FF2?style=for-the-badge&logo=confluence&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-59F48A?style=for-the-badge&logo=bpmn&logoColor=white)
 ![Storm](https://img.shields.io/badge/Storm-F51934?style=for-the-badge&logo=storm&logoColor=white)
-
+![Swagger](https://img.shields.io/badge/Swagger-4BF23F?style=for-the-badge&logo=swagger&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-1E0D0C?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 | Job Position  | Company       | Department \ Division  | Work Period   |
