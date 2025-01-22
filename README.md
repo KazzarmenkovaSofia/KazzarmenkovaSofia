@@ -40,6 +40,8 @@ Scope of my duties related to next spheres:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-3F3FF2?style=for-the-badge&logo=confluence&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-59F48A?style=for-the-badge&logo=bpmn&logoColor=white)
+![Storm](https://img.shields.io/badge/Storm-F51934?style=for-the-badge&logo=storm&logoColor=white)
 
 
 
