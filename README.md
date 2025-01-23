@@ -44,7 +44,8 @@ Scope of my duties related to next spheres:
 ![Storm](https://img.shields.io/badge/Storm-F51934?style=for-the-badge&logo=storm&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-4BF23F?style=for-the-badge&logo=swagger&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-1E0D0C?style=for-the-badge&logo=grafana&logoColor=white)
-
+![Unidraw](https://img.shields.io/badge/Unidraw-4BF23F?style=for-the-badge&logo=unidraw&logoColor=white)
+![WhiteBoard](https://img.shields.io/badge/WhiteBoard-ffffff?style=for-the-badge&logo=whiteboard&logoColor=white)
 
 | Job Position  | Company       | Department \ Division  | Work Period   |
 | ------------- | ------------- | ---------------------- | ------------- |
