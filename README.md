@@ -49,6 +49,11 @@ Scope of my duties related to next spheres:
 ![WhiteBoard](https://img.shields.io/badge/WhiteBoard-ffffff?style=for-the-badge&logo=whiteboard&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-4BF23F?style=for-the-badge&logo=graylog&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-F51934?style=for-the-badge&logo=kibana&logoColor=white)
+![SystemsAnalyst](https://img.shields.io/badge/SystemsAnalyst-000000.svg?&style=for-the-badge&logo=SystemsAnalyst&logoColor=white)
+![SystemsAnalysis](https://img.shields.io/badge/SystemsAnalysis-000000.svg?&style=for-the-badge&logo=SystemsAnalysis&logoColor=white)
+![BusinessAnalysis](https://img.shields.io/badge/BusinessAnalysis-000000.svg?&style=for-the-badge&logo=BusinessAnalysis&logoColor=white)
+![BusinessAnalyst](https://img.shields.io/badge/BusinessAnalyst-000000.svg?&style=for-the-badge&logo=BusinessAnalyst&logoColor=white)
+![DataAnalyst](https://img.shields.io/badge/DataAnalyst-000000.svg?&style=for-the-badge&logo=DataAnalyst&logoColor=white)
 
 | Job Position  | Company       | Department \ Division  | Work Period   |
 | ------------- | ------------- | ---------------------- | ------------- |
